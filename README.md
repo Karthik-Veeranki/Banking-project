@@ -2,13 +2,19 @@
 
 This application integrates the MySQL database to store the account holders' information and Transaction history using CRUD operations with the Python programming using module mysql.connector.
 This application provides several functionalities to a bank customer:
-1. Add a new account
-2. Modify the existing account
-3. De-activating an account
-4. Activating their account
-5. Fetch the details of the account
-6. Search for the account
-7. Transactions options
+● Add a new account
+
+● Modify the existing account
+
+● De-activating an account
+
+● Activating their account
+
+● Fetch the details of the account
+
+● Search for the account
+
+● Transactions options
 
 These functionalities are implemented as seperate modules in the code to maintain readabilty and semantics.
 
